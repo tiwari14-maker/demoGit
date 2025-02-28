@@ -1,8 +1,11 @@
 # demoGit
 
+ls -a == ls -Force (to see hidden files)
+
 # git commands 
-1. git clone <--some link-->
-2. git status
-3. git add <--file name-->
-4. git add . (to add all files)
-5. git commit -m "some message"
+1. git config user.name "some name"
+2. git clone <--some link-->
+3. git status
+4. git add <--file name-->
+5. git add . (to add all files)
+6. git commit -m "some message"
